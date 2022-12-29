@@ -1,2 +1,2 @@
 # Site-Florescer
- Site de vendas online
+ Este é o repositório do site de vendas da *Florescer Acessórios*.
