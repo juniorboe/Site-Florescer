@@ -155,9 +155,11 @@ header .icone-carrinho {
 }
 
 .cards img {
-    width: 100%;
+    width: 200px;
+    height: 200px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; 
+    display: block;
 }
 
 .cards h1 {
